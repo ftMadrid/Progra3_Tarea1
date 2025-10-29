@@ -1,0 +1,24 @@
+# ninja log v6
+6	35	1761706035774479242	Tarea1_autogen/timestamp	718edb8ee3501d22
+36	633	1761706035803833827	CMakeFiles/Tarea1.dir/user.cpp.o	9829e56b0777771f
+6	35	1761706035774479242	Tarea1_autogen/mocs_compilation.cpp	718edb8ee3501d22
+6	35	1761706035774479242	/Users/ricardomadrid/Desktop/Programacion 3/Tarea1/build/Qt_6_9_3_for_macOS-Debug/Tarea1_autogen/timestamp	718edb8ee3501d22
+36	999	1761706035803652905	CMakeFiles/Tarea1.dir/main.cpp.o	aef6ed8216b2a647
+6	35	1761706035774479242	/Users/ricardomadrid/Desktop/Programacion 3/Tarea1/build/Qt_6_9_3_for_macOS-Debug/Tarea1_autogen/mocs_compilation.cpp	718edb8ee3501d22
+36	632	1761706035804039666	CMakeFiles/Tarea1.dir/teacher.cpp.o	12953f5028100614
+999	1127	1761706036767259099	Tarea1	326d4f06ce5f23f4
+39	611	1761705401354142362	CMakeFiles/Tarea1.dir/administrator.cpp.o	e6f6e0fb71fe6b2d
+48	71	1761630837918824931	CMakeFiles/Tarea1.dir/Tarea1_autogen/mocs_compilation.cpp.o	62856572130145b7
+36	633	1761706035803933538	CMakeFiles/Tarea1.dir/student.cpp.o	f2afd6d47b9dd811
+9	46	1761706167420831016	Tarea1_autogen/timestamp	718edb8ee3501d22
+9	46	1761706167420831016	Tarea1_autogen/mocs_compilation.cpp	718edb8ee3501d22
+9	46	1761706167420831016	/Users/ricardomadrid/Desktop/Programacion 3/Tarea1/build/Qt_6_9_3_for_macOS-Debug/Tarea1_autogen/timestamp	718edb8ee3501d22
+9	46	1761706167420831016	/Users/ricardomadrid/Desktop/Programacion 3/Tarea1/build/Qt_6_9_3_for_macOS-Debug/Tarea1_autogen/mocs_compilation.cpp	718edb8ee3501d22
+46	1011	1761706167456203490	CMakeFiles/Tarea1.dir/main.cpp.o	aef6ed8216b2a647
+1011	1120	1761706168421203018	Tarea1	326d4f06ce5f23f4
+6	30	1761706272770744258	Tarea1_autogen/timestamp	718edb8ee3501d22
+6	30	1761706272770744258	Tarea1_autogen/mocs_compilation.cpp	718edb8ee3501d22
+6	30	1761706272770744258	/Users/ricardomadrid/Desktop/Programacion 3/Tarea1/build/Qt_6_9_3_for_macOS-Debug/Tarea1_autogen/timestamp	718edb8ee3501d22
+6	30	1761706272770744258	/Users/ricardomadrid/Desktop/Programacion 3/Tarea1/build/Qt_6_9_3_for_macOS-Debug/Tarea1_autogen/mocs_compilation.cpp	718edb8ee3501d22
+30	668	1761706272795056318	CMakeFiles/Tarea1.dir/main.cpp.o	aef6ed8216b2a647
+668	704	1761706273433011037	Tarea1	326d4f06ce5f23f4

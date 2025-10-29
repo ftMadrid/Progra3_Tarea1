@@ -1,0 +1,9 @@
+/Users/ricardomadrid/Desktop/Programacion 3/Tarea1/build/Qt_6_9_3_for_macOS-Debug/CMakeFiles/Tarea1.dir
+/Users/ricardomadrid/Desktop/Programacion 3/Tarea1/build/Qt_6_9_3_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Users/ricardomadrid/Desktop/Programacion 3/Tarea1/build/Qt_6_9_3_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
+/Users/ricardomadrid/Desktop/Programacion 3/Tarea1/build/Qt_6_9_3_for_macOS-Debug/CMakeFiles/list_install_components.dir
+/Users/ricardomadrid/Desktop/Programacion 3/Tarea1/build/Qt_6_9_3_for_macOS-Debug/CMakeFiles/install.dir
+/Users/ricardomadrid/Desktop/Programacion 3/Tarea1/build/Qt_6_9_3_for_macOS-Debug/CMakeFiles/install/local.dir
+/Users/ricardomadrid/Desktop/Programacion 3/Tarea1/build/Qt_6_9_3_for_macOS-Debug/CMakeFiles/install/strip.dir
+/Users/ricardomadrid/Desktop/Programacion 3/Tarea1/build/Qt_6_9_3_for_macOS-Debug/CMakeFiles/Tarea1_autogen_timestamp_deps.dir
+/Users/ricardomadrid/Desktop/Programacion 3/Tarea1/build/Qt_6_9_3_for_macOS-Debug/CMakeFiles/Tarea1_autogen.dir
